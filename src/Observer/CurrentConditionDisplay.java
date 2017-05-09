@@ -17,7 +17,7 @@ public class CurrentConditionDisplay implements Observer, DisplayElement {
 	}
 
 	@Override
-	public void update(float temp, float humidity, float pressure) {
+	public void update(float temperature, float humidity, float pressure) {
 		// TODO Auto-generated method stub
 		this.temperature = temperature;
 		this.humidity = humidity;

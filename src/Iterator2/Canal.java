@@ -1,4 +1,4 @@
-package Iterator;
+package Iterator2;
 
 public class Canal {
 	String nome;
